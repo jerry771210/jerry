@@ -1,0 +1,53 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+  padding-bottom: 80px;
+}
+
+#img2 {
+    height:400px;    
+    background-image:url(/img/img2.jpg);
+    background-repeat: no-repeat;
+
+}
+#img3 {
+    height:200px;    
+    background-image:url(/img/img3.jpg);
+    background-repeat: no-repeat;
+}
+#img4 {
+    height:200px;    
+    background-image:url(/img/img4.jpg);
+    background-repeat: no-repeat;
+
+}
+#img5 {
+    height:400px;    
+    background-image:url(/img/img5.jpg);
+    background-repeat: no-repeat;
+
+}
+#img6 {
+    height:400px;    
+    background-image:url(/img/img6.jpg);
+    background-repeat: no-repeat;
+
+}
+#img7 {
+    height:200px;
+    background-image:url(/img/img7.jpg);
+    background-repeat: no-repeat;
+
+}
+#img8 {
+    height:200px;
+    background-image:url(/img/img8.jpg);
+    background-repeat: no-repeat;
+
+}
+#img9 {
+    height:200px;
+    background-image:url(/img/img9.jpg);
+    background-repeat: no-repeat;
+
+}
