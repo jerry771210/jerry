@@ -1,0 +1,71 @@
+﻿$axure.loadCurrentPage({
+  "url":"log_in.html",
+  "generationDate":new Date(1394002976728.1),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"41f792033334467cb4c67690f605eb66",
+    "type":"Axure:Page",
+    "name":"Log in",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"43d78d81f8364559b9a1b76498774f87",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":140,
+              "y":180},
+            "size":{
+              "width":200,
+              "height":100}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e1ff0134ad4c44aea01314cbfdf948f9",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":140,
+                  "y":180},
+                "size":{
+                  "width":200,
+                  "height":100}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/log_in/u0.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "43d78d81f8364559b9a1b76498774f87":{
+      "scriptId":"u0"},
+    "e1ff0134ad4c44aea01314cbfdf948f9":{
+      "scriptId":"u1"}}});
