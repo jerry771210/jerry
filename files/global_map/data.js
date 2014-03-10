@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"global_map.html",
-  "generationDate":new Date(1394002976850.18),
+  "generationDate":new Date(1394057856962.84),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -29,8 +29,23 @@
     "interactionMap":{
 },
     "diagram":{
-      "objects":[]}},
+      "objects":[{
+          "id":"a062a9c13f6a4487902f899066d58470",
+          "label":"",
+          "type":"inlineFrame",
+          "styleType":"inlineFrame",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":260,
+              "y":170},
+            "size":{
+              "width":350,
+              "height":270}},
+          "adaptiveStyles":{
+}}]}},
   "masters":{
 },
   "objectPaths":{
-}});
+    "a062a9c13f6a4487902f899066d58470":{
+      "scriptId":"u0"}}});

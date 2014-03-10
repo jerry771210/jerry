@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:0px;
+  width:610px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -11,4 +11,11 @@
 #base {
   position:absolute;
   z-index:0;
+}
+#u0 {
+  position:absolute;
+  left:260px;
+  top:170px;
+  width:346px;
+  height:266px;
 }

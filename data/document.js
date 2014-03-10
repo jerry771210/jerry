@@ -13,17 +13,17 @@
     "loadFeedbackPlugin":false},
   "sitemap":{
     "rootNodes":[{
-        "pageName":"Home",
+        "pageName":"Index",
         "type":"Wireframe",
-        "url":"home.html",
+        "url":"index.html",
         "children":[{
+            "pageName":"Sign Up",
+            "type":"Wireframe",
+            "url":"sign_up.html"},
+{
             "pageName":"Log in",
             "type":"Wireframe",
             "url":"log_in.html"},
-{
-            "pageName":"Sign up",
-            "type":"Wireframe",
-            "url":"sign_up.html"},
 {
             "pageName":"Individual Page",
             "type":"Wireframe",

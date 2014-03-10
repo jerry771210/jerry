@@ -1,12 +1,12 @@
 ﻿$axure.loadCurrentPage({
   "url":"sign_up.html",
-  "generationDate":new Date(1394002976766.12),
+  "generationDate":new Date(1394057854486.11),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
-    "packageId":"1ae994fa88e644a6870c413a8975a4f6",
+    "packageId":"8534fcbec214453193fe334a5b3025e5",
     "type":"Axure:Page",
-    "name":"Sign up",
+    "name":"Sign Up",
     "notes":{
 },
     "style":{
@@ -29,43 +29,8 @@
     "interactionMap":{
 },
     "diagram":{
-      "objects":[{
-          "id":"46cc1e237fd1491581916f9ba3a5af6b",
-          "label":"",
-          "type":"buttonShape",
-          "styleType":"buttonShape",
-          "visible":true,
-          "style":{
-            "location":{
-              "x":320,
-              "y":180},
-            "size":{
-              "width":200,
-              "height":100}},
-          "adaptiveStyles":{
-},
-          "objects":[{
-              "id":"638f865c8e9149c78b0dc32040bae633",
-              "label":"",
-              "isContained":true,
-              "type":"richTextPanel",
-              "styleType":"paragraph",
-              "visible":true,
-              "style":{
-                "location":{
-                  "x":320,
-                  "y":180},
-                "size":{
-                  "width":200,
-                  "height":100}},
-              "adaptiveStyles":{
-}}],
-          "images":{
-            "normal~":"images/log_in/u0.png"}}]}},
+      "objects":[]}},
   "masters":{
 },
   "objectPaths":{
-    "46cc1e237fd1491581916f9ba3a5af6b":{
-      "scriptId":"u0"},
-    "638f865c8e9149c78b0dc32040bae633":{
-      "scriptId":"u1"}}});
+}});
